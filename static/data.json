@@ -1,0 +1,1196 @@
+{
+ "name": "CSTE",
+ "children": [
+  {
+   "name": "Year-1",
+   "children": [
+    {
+     "name": "Term-1",
+     "children": [
+      {
+          "name":"CSTE 1101",
+          "children":[
+              {
+              "name": "Introduction to Computer Application",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+        "name":"CSTE 1102",
+         "children":[
+              {
+              "name": "Introduction to Computer Application Lab",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+        "name":"CSTE 1103",
+        "children":[
+              {
+              "name": "Fundamentals of Electrical and Mechanical Engineering ",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+        "name":"PHYS 1101",
+        "children":[
+              {
+              "name": "Electromagnetism, Oscillations and Optics",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+        "name":"PHYS 1102",
+        "children":[
+              {
+              "name": "Physics Lab",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+        "name":"MATH 1101",
+        "children":[
+              {
+              "name": "Differential and Integral Calculus",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+        "name":"FENG 1101",
+        "children":[
+              {
+              "name": "Developing Basic English Skills ",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+        "name":"HUM 1101",
+        "children":[
+              {
+              "name": "Financial and Cost Accounting ",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      }
+     ]
+    },
+    {
+     "name": "Term-2",
+     "children": [
+      {
+          "name": "CSTE 1201", 
+          "children":[
+              {
+              "name": "Structured Programming Language",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+          ]
+      },
+      {
+          "name": "CSTE 1202",
+          "children":[
+              {
+              "name": "Structured Programming Language Lab",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+          "name": "CSTE 1203", 
+          "children":[
+              {
+              "name": "Discrete Mathematics",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+          "name": "CSTE 1205", 
+          "children":[
+              {
+              "name": "Electric Circuit Analysis",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+          "name": "CSTE 1206", 
+          "children":[
+              {
+              "name": "Electric Circuit Analysis Lab",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+          "name": "CSTE 1207", 
+          "children":[
+              {
+              "name": "Semiconductor Devices and Circuits",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+          "name": "CSTE 1208", 
+          "children":[
+              {
+              "name": "Semiconductor Devices and Circuits Lab",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+          "name": "MATH 1203",
+          "children":[
+              {
+              "name": "Matrices, Ordinary and Partial Differential equations",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+          "name": "HUM 1203 ",
+          "children":[
+              {
+              "name": "Industrial and Business Management",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+          "name": "FENG 1203 ",
+          "children":[
+              {
+              "name": "English for Specific Purposes",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+          "name": "CSTE 1210 ",
+          "children":[
+              {
+              "name": "Project Work and Seminar / Viva Voce",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Year-2",
+   "children": [
+    {
+     "name": "Term-1",
+     "children": [
+      {
+          "name":"CSTE 2101",
+          "children":[
+              {
+              "name": "Object Oriented Programming",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+        "name":"CSTE 2102",
+         "children":[
+              {
+              "name": "Object Oriented Programming Lab",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+        "name":"CSTE 2103",
+        "children":[
+              {
+              "name": "Digital Logic Design",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+        "name":"CSTE 2104",
+        "children":[
+              {
+              "name": "Digital Logic Design Lab",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+        "name":"CSTE 2105",
+        "children":[
+              {
+              "name": "Numerical analysis",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+        "name":"CSTE 2106",
+        "children":[
+              {
+              "name": "Numerical analysis Lab ",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+        "name":"CSTE 2107",
+        "children":[
+              {
+              "name": "Introduction to Telecommunication",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+        "name":"MATH 2105",
+        "children":[
+              {
+              "name": "Vector Analysis, Laplace Transform and Fourier Analysis ",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+        "name":"HUM -2105",
+        "children":[
+              {
+              "name": "Principles of Economics",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      }
+     ]
+    },
+    {
+     "name": "Term-2",
+     "children": [
+      {
+          "name": "CSTE 2201", 
+          "children":[
+              {
+              "name": "Data Structure and Algorithms",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+          ]
+      },
+      {
+          "name": "CSTE 2202",
+          "children":[
+              {
+              "name": "Data Structure and Algorithms Lab",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+          "name": "CSTE 2203", 
+          "children":[
+              {
+              "name": "Digital Electronics and Pulse Technique",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+          "name": "CSTE 2204", 
+          "children":[
+              {
+              "name": "Digital Electronics and Pulse Technique Lab",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+          "name": "CSTE 2205", 
+          "children":[
+              {
+              "name": "Computer Architecture and Organization ",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+          "name": "CSTE 2206", 
+          "children":[
+              {
+              "name": "Computer Architecture and Organization Lab",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+          "name": "CSTE 2207", 
+          "children":[
+              {
+              "name": "Object Oriented Programming in GUI Environment",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+          "name": "CSTE 2208",
+          "children":[
+              {
+              "name": "Object Oriented Programming in GUI Environment Lab",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+          "name": "CSTE 2209",
+          "children":[
+              {
+              "name": "Theory of Computation",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+          "name": "MATH 2207",
+          "children":[
+              {
+              "name": "Complex variables, Statistics and Probability",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+          "name": "CSTE 2210",
+          "children":[
+              {
+              "name": "Project Work and Seminar / Viva Voce",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Year-3",
+   "children": [
+    {
+     "name": "Term-1",
+     "children": [
+      {
+          "name":"CSTE 3101",
+          "children":[
+              {
+              "name": "Electronic Communication",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+        "name":"CSTE 3102",
+         "children":[
+              {
+              "name": "Electronic Communication Lab",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+        "name":"CSTE 3103",
+        "children":[
+              {
+              "name": "Digital Signal Processing ",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+        "name":"CSTE 3104 ",
+        "children":[
+              {
+              "name": "Digital Signal Processing Lab",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+        "name":"CSTE 3105",
+        "children":[
+              {
+              "name": "Database Management System",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+        "name":"CSTE 3106",
+        "children":[
+              {
+              "name": "Database Management System Lab",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+        "name":"CSTE 3107",
+        "children":[
+              {
+              "name": "Operating Systems and System Programming",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+        "name":"CSTE 3108",
+        "children":[
+              {
+              "name": "Operating Systems and System Programming Lab",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+        "name":"CSTE 3109",
+        "children":[
+              {
+              "name": "Microprocessor, Microcontroller and Interfacing",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+        "name":"CSTE 3110",
+        "children":[
+              {
+              "name": "Microprocessor, Microcontroller and Interfacing Lab",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+     {
+        "name":"CSTE 3111",
+        "children":[
+              {
+              "name": "Electromagnetic Waves and Radiating Systems",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      }
+     ]
+    },
+    {
+     "name": "Term-2",
+     "children": [
+      {
+          "name": "CSTE 3201 ", 
+          "children":[
+              {
+              "name": "Computer Networking ",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+          ]
+      },
+      {
+          "name": "CSTE 3202",
+          "children":[
+              {
+              "name": "Computer Networking Lab",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+          "name": "CSTE 3203", 
+          "children":[
+              {
+              "name": "Microwave and Satellite Communication",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+          "name": "CSTE 3204", 
+          "children":[
+              {
+              "name": "Microwave and Satellite Communication Lab",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+          "name": "CSTE 3205", 
+          "children":[
+              {
+              "name": "Web Technologies",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+          "name": "CSTE 3206", 
+          "children":[
+              {
+              "name": "Web Technologies Lab",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+          "name": "CSTE 3207 ", 
+          "children":[
+              {
+              "name": "Digital Communication",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+         {
+          "name": "CSTE 3208", 
+          "children":[
+              {
+              "name": "Digital Communication Lab",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+        {
+          "name": "CSTE 3209", 
+          "children":[
+              {
+              "name": "Software Engineering and Information System Design",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+     {
+          "name": "CSTE 3210", 
+          "children":[
+              {
+              "name": "Software Engineering and Information System Design Lab",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+         {
+          "name": "CSTE 3211", 
+          "children":[
+              {
+              "name": "Wireless Communication and Networks",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+          "name": "CSTE 3212", 
+          "children":[
+              {
+              "name": "Wireless Communication and Networks Lab ",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+          "name": "CSTE 3214",
+          "children":[
+              {
+              "name": "Project Work and Seminar / Viva Voce",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      }
+     ]
+    }
+   ]
+  },
+
+  {
+   "name": "Year-4",
+   "children": [
+    {
+     "name": "Term-1",
+     "children": [
+      {
+          "name":"CSTE 4101",
+          "children":[
+              {
+              "name": "Computer Graphics",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+        "name":"CSTE 4102",
+         "children":[
+              {
+              "name": "Computer Graphics Lab",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+        "name":"CSTE 4103",
+        "children":[
+              {
+              "name": "Artificial Intelligence and Neural Networks",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+        "name":"CSTE 4104 ",
+        "children":[
+              {
+              "name": "Artificial Intelligence and Neural Networks Lab",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+        "name":"CSTE 4105",
+        "children":[
+              {
+              "name": "Optical Fiber Communication ",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+        "name":"CSTE 4106",
+        "children":[
+              {
+              "name": "Optical Fiber Communication  Lab",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+        "name":"CSTE 4107",
+        "children":[
+              {
+              "name": "Cellular Mobile System & Network Management",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+        "name":"CSTE 4109",
+        "children":[
+              {
+              "name": "Compiler Construction",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+        "name":"CSTE 4110",
+        "children":[
+              {
+              "name": "Compiler Construction Lab",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+        "name":"CSTE 4111",
+        "children":[
+              {
+              "name": "Project and Thesis",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+        "name":"CSTE 4112",
+        "children":[
+              {
+              "name": "Industrial Training",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      }
+     ]
+    },
+    {
+     "name": "Term-2",
+     "children": [
+      {
+          "name": "CSTE 4201", 
+          "children":[
+              {
+              "name": "Digital Image Processing",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+          ]
+      },
+      {
+          "name": "CSTE 4202",
+          "children":[
+              {
+              "name": "Digital Image Processing Lab",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+          "name": "CSTE 4203", 
+          "children":[
+              {
+              "name": "Multimedia Communications",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+          "name": "CSTE 4205", 
+          "children":[
+              {
+              "name": "Cryptography and Network Security",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+          "name": "CSTE 4207", 
+          "children":[
+              {
+              "name": "Advanced Wireless Communication",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+          "name": "CSTE 4208", 
+          "children":[
+              {
+              "name": "Project and Thesis",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      },
+      {
+          "name": "CSTE 4210", 
+          "children":[
+              {
+              "name": "Viva Voce",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              },
+              {
+               "name": "Course Nesessary Requirements",
+               "url":"https://www.dropbox.com/s/b3rz98jssckjts7/CSTE1101.PNG?dl=0"
+              }
+              
+          ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
